@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-size: 16px; /* 16px is the default */
+}
+
+html,
+body,
+button,
+input {
+  font-family: 'Helvetica', sans-serif;
+}
